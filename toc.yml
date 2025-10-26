@@ -1,0 +1,32 @@
+# Documentation Table of Contents
+
+- title: Getting Started
+  href: docs/getting-started.md
+
+- title: Installation
+  href: docs/installation.md
+  topics:
+    - title: Prerequisites
+      href: docs/installation.md#prerequisites
+    - title: Quick Start
+      href: docs/installation.md#quick-start
+
+- title: Features
+  href: docs/features.md
+  topics:
+    - title: Markdown Support
+      href: docs/features.md#markdown-support
+    - title: Table of Contents
+      href: docs/features.md#table-of-contents
+    - title: Search Functionality
+      href: docs/features.md#search-functionality
+    - title: Syntax Highlighting
+      href: docs/features.md#syntax-highlighting
+
+- title: Contributing
+  href: docs/contributing.md
+  topics:
+    - title: How to Contribute
+      href: docs/contributing.md#how-to-contribute
+    - title: Code of Conduct
+      href: docs/contributing.md#code-of-conduct
